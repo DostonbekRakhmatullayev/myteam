@@ -125,6 +125,7 @@ color: #FFFFFF;
   transform: rotate(45deg);
 }
 .open__li{
+  display: block;
   margin-right: 20px;
   margin-bottom: 70px;
 }
